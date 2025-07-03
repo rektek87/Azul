@@ -28,8 +28,8 @@ Azul AGI is a sovereign AI alignment architecture that encloses any powerful LLM
 CC BY-NC-SA 4.0 — Non-commercial, share alike. Sovereign symbol reserved.
 
 ## Contact
-[Your Name]  
-[Your Email]  
-[GitHub or azulagi.org]
+Eric Miller Lee  
+rektek87@gmail.com
+(https://github.com/rektek87/Azul)
 # Azul
 Ai
